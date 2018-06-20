@@ -1,6 +1,6 @@
 {
   "name": "null-returner",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "returns null no matter what",
   "main": "index.js",
   "scripts": {
